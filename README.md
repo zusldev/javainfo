@@ -1,4 +1,4 @@
-# Sitio web sobre Java
+# Sitio web sobre información de Java
 
 Desarrollado con vite+react+tailwind
 ```

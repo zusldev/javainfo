@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-code{
+  background-color: rgb(40, 42, 54);
+}
+/** Change the scrollbar with tailwind */
+::-webkit-scrollbar {
+  width: 0.5rem;
+}
+::-webkit-scrollbar-track {
+  background: rgb(40, 42, 54);
+}
+::-webkit-scrollbar-thumb {
+  background: rgb(255, 255, 255);
+}
+
+
+

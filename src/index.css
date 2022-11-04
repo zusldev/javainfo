@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-code{
+  background-color: rgb(40, 42, 54);
+}
+body{
+  background-color: #ffffff;
+  color: rgb(255, 255, 255);
+}
+::-webkit-scrollbar {
+  width: 0.5rem;
+}
+::-webkit-scrollbar-track {
+  background: #EDF2F6;
+}
+::-webkit-scrollbar-thumb {
+  background: #3b82f6
+}
+.particles-bg-canvas-self{
+  object-fit: cover;
+  width: 2500px;
+  height: 2500px;
+  position: absolute;
+  margin-top: 500px;
+
+}
+
+
+
